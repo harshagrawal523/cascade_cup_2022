@@ -8,3 +8,4 @@ You can find our notebooks, datasets and final report in this repo.
 Team Members:
 1. Gunjan Dhanuka
 2. Harsh Agrawal
+3. Samyak Jain
